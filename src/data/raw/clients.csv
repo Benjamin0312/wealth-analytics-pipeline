@@ -1,0 +1,61 @@
+client_id,full_name,email,risk_profile,client_segment,onboarding_date,advisor_id
+CLI0001,Claire Nkosi,claire.nkosi1@example.co.za,Moderate,Mass Affluent,2022-01-26,ADV006
+CLI0002,Naledi Meyer,naledi.meyer2@example.co.za,Conservative,High Net Worth,2024-01-29,ADV001
+CLI0003,Sipho Nkosi,sipho.nkosi3@example.co.za,Conservative,High Net Worth,2022-08-12,ADV006
+CLI0004,Claire Ndlovu,claire.ndlovu4@example.co.za,Aggressive,High Net Worth,2023-07-13,ADV001
+CLI0005,Johan Ndlovu,johan.ndlovu5@example.co.za,Moderate,Mass Affluent,2023-03-09,ADV003
+CLI0006,Naledi Nkosi,naledi.nkosi6@example.co.za,Balanced,High Net Worth,2023-01-25,ADV001
+CLI0007,Tshepo Mthembu,tshepo.mthembu7@example.co.za,Aggressive,Mass Affluent,2023-07-04,ADV003
+CLI0008,Claire Sithole,claire.sithole8@example.co.za,Moderate,High Net Worth,2024-06-25,ADV001
+CLI0009,Claire Pillay,claire.pillay9@example.co.za,Conservative,Private Wealth,2024-03-02,ADV001
+CLI0010,Rohan Mabena,rohan.mabena10@example.co.za,Balanced,Mass Affluent,2023-04-10,ADV003
+CLI0011,Annelize Meyer,annelize.meyer11@example.co.za,Conservative,High Net Worth,2022-10-01,ADV002
+CLI0012,Michael Ndlovu,michael.ndlovu12@example.co.za,Aggressive,Mass Affluent,2022-09-08,ADV006
+CLI0013,Tshepo Govender,tshepo.govender13@example.co.za,Conservative,Mass Affluent,2022-08-13,ADV001
+CLI0014,Zanele Jacobs,zanele.jacobs14@example.co.za,Balanced,Mass Affluent,2022-10-02,ADV004
+CLI0015,Rohan Meyer,rohan.meyer15@example.co.za,Moderate,Mass Affluent,2023-04-15,ADV005
+CLI0016,Michael Mabena,michael.mabena16@example.co.za,Aggressive,Mass Affluent,2024-02-04,ADV002
+CLI0017,Michael Mthembu,michael.mthembu17@example.co.za,Conservative,Mass Affluent,2022-04-04,ADV002
+CLI0018,Claire Jacobs,claire.jacobs18@example.co.za,Aggressive,High Net Worth,2023-09-03,ADV004
+CLI0019,Michael Mabena,michael.mabena19@example.co.za,Conservative,High Net Worth,2024-09-21,ADV001
+CLI0020,Claire Govender,claire.govender20@example.co.za,Balanced,Mass Affluent,2024-02-08,ADV004
+CLI0021,Johan Mthembu,johan.mthembu21@example.co.za,Balanced,Private Wealth,2022-01-04,ADV002
+CLI0022,Michael Nkosi,michael.nkosi22@example.co.za,Moderate,Mass Affluent,2024-06-10,ADV002
+CLI0023,Michael Govender,michael.govender23@example.co.za,,Mass Affluent,2024-07-29,ADV001
+CLI0024,Naledi Pretorius,naledi.pretorius24@example.co.za,Balanced,Mass Affluent,2024-06-18,ADV002
+CLI0025,Bongani Nkosi,bongani.nkosi25@example.co.za,Conservative,Private Wealth,2022-03-29,ADV005
+CLI0026,Johan Venter,johan.venter26@example.co.za,Moderate,Mass Affluent,2023-11-07,ADV005
+CLI0027,Rohan Pillay,rohan.pillay27@example.co.za,Moderate,High Net Worth,2024-08-09,ADV004
+CLI0028,Claire Meyer,claire.meyer28@example.co.za,Aggressive,Mass Affluent,2023-01-18,ADV002
+CLI0029,Naledi Pretorius,naledi.pretorius29@example.co.za,Moderate,High Net Worth,2022-01-22,ADV001
+CLI0030,Naledi Ndlovu,naledi.ndlovu30@example.co.za,Conservative,Private Wealth,2023-10-09,ADV003
+CLI0031,Naledi Govender,naledi.govender31@example.co.za,Aggressive,Mass Affluent,2022-09-01,ADV002
+CLI0032,Tshepo Sithole,tshepo.sithole32@example.co.za,Aggressive,High Net Worth,2023-08-14,ADV002
+CLI0033,Naledi Nkosi,naledi.nkosi33@example.co.za,Aggressive,Mass Affluent,2023-11-06,ADV006
+CLI0034,Sipho Meyer,sipho.meyer34@example.co.za,Conservative,Mass Affluent,2023-11-01,ADV006
+CLI0035,Zanele Nkosi,zanele.nkosi35@example.co.za,Aggressive,Mass Affluent,2022-09-12,ADV002
+CLI0036,Kagiso Mthembu,kagiso.mthembu36@example.co.za,Conservative,Mass Affluent,2022-09-13,ADV005
+CLI0037,Naledi Dlamini,naledi.dlamini37@example.co.za,Conservative,Private Wealth,2023-10-30,ADV002
+CLI0038,Johan Jacobs,johan.jacobs38@example.co.za,Aggressive,Private Wealth,2023-05-13,ADV002
+CLI0039,Rohan Dlamini,rohan.dlamini39@example.co.za,Aggressive,Mass Affluent,2023-02-04,ADV006
+CLI0040,Tshepo Govender,tshepo.govender40@example.co.za,Moderate,Mass Affluent,2023-11-09,ADV002
+CLI0041,Sipho Sithole,sipho.sithole41@example.co.za,Balanced,Mass Affluent,2024-01-24,ADV005
+CLI0042,Fatima Govender,fatima.govender42@example.co.za,Moderate,Mass Affluent,2024-07-30,ADV005
+CLI0043,Naledi Venter,naledi.venter43@example.co.za,Moderate,Mass Affluent,2022-03-12,ADV005
+CLI0044,Annelize Sithole,annelize.sithole44@example.co.za,,Mass Affluent,2023-09-01,ADV006
+CLI0045,Bongani Sithole,bongani.sithole45@example.co.za,Balanced,Mass Affluent,2023-06-20,ADV006
+CLI0046,Zanele Pillay,zanele.pillay46@example.co.za,Balanced,Mass Affluent,2022-09-29,ADV001
+CLI0047,Sipho Mthembu,sipho.mthembu47@example.co.za,Conservative,Mass Affluent,2023-09-29,ADV002
+CLI0048,Michael Mabena,michael.mabena48@example.co.za,Conservative,Private Wealth,2022-05-16,ADV003
+CLI0049,Kagiso Venter,kagiso.venter49@example.co.za,Balanced,High Net Worth,2023-03-25,ADV006
+CLI0050,Michael Dlamini,michael.dlamini50@example.co.za,Balanced,Private Wealth,2023-11-15,ADV001
+CLI0051,Johan Mabena,johan.mabena51@example.co.za,Moderate,Mass Affluent,2022-04-29,ADV005
+CLI0052,Annelize Ndlovu,annelize.ndlovu52@example.co.za,Balanced,Mass Affluent,2022-12-18,ADV003
+CLI0053,Sipho Nkosi,sipho.nkosi53@example.co.za,Balanced,Mass Affluent,2023-10-12,ADV003
+CLI0054,Johan Meyer,johan.meyer54@example.co.za,Aggressive,High Net Worth,2022-09-26,ADV004
+CLI0055,Michael Dlamini,michael.dlamini55@example.co.za,Moderate,Mass Affluent,2022-04-25,ADV003
+CLI0056,Bongani Govender,bongani.govender56@example.co.za,Conservative,Mass Affluent,2022-06-01,ADV001
+CLI0057,Zanele Pillay,zanele.pillay57@example.co.za,Conservative,Mass Affluent,2023-11-30,ADV005
+CLI0058,Rohan Sithole,rohan.sithole58@example.co.za,Moderate,Private Wealth,2024-02-07,ADV002
+CLI0059,Rohan Dlamini,rohan.dlamini59@example.co.za,Balanced,High Net Worth,2022-07-03,ADV004
+CLI0060,Claire Ndlovu,claire.ndlovu60@example.co.za,Moderate,High Net Worth,2024-04-10,ADV001
