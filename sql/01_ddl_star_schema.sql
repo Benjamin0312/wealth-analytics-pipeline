@@ -3,9 +3,8 @@
 CREATE DATABASE IF NOT EXISTS wealth_dw;
 USE wealth_dw;
 
--- ==========================================
--- 1. DIMENSION TABLES
--- ==========================================
+
+--1. DIMENSION TABLES
 
 CREATE TABLE IF NOT EXISTS dim_date (
     date_key INT PRIMARY KEY,          
@@ -51,9 +50,8 @@ CREATE TABLE IF NOT EXISTS dim_asset (
     loaded_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
--- ==========================================
--- 2. FACT TABLE
--- ==========================================
+
+--2.FACT TABLE
 
 CREATE TABLE IF NOT EXISTS fact_transactions (
     transaction_key INT AUTO_INCREMENT PRIMARY KEY,
@@ -82,9 +80,8 @@ CREATE INDEX idx_fact_client ON fact_transactions(client_key);
 CREATE INDEX idx_fact_advisor ON fact_transactions(advisor_key);
 CREATE INDEX idx_fact_asset ON fact_transactions(asset_key);
 
--- ==========================================
--- 3. DATA QUALITY & GOVERNANCE (QUARANTINE)
--- ==========================================
+
+--3.DATA QUALITY & GOVERNANCE (QUARANTINE)
 
 CREATE TABLE IF NOT EXISTS quarantine_transactions (
     quarantine_id INT AUTO_INCREMENT PRIMARY KEY,
