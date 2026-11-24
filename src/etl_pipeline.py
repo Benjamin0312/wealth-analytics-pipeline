@@ -15,6 +15,10 @@ DB_CONFIG = {
 
 RAW_DIR = os.path.join("data", "raw")
 QUARANTINE_DIR = os.path.join("data", "quarantined")
+
+MARTS_DIR = os.path.join("data", "marts")
+os.makedirs(MARTS_DIR, exist_ok=True)
+
 os.makedirs(QUARANTINE_DIR, exist_ok=True)
 
 
@@ -272,7 +276,7 @@ def validate_and_load_transactions(
     """
     cursor.executemany(fact_sql, valid_rows)
 
-    # Insert rejected records into quarantine_transactions
+    # Inserting the rejected records into quarantine_transactions table
     quarantine_sql = """
         INSERT INTO quarantine_transactions (
             raw_transaction_id, raw_client_id, raw_asset_id, raw_transaction_date,
@@ -305,6 +309,25 @@ def validate_and_load_transactions(
     print(f"[FACT_TRANSACTIONS] Loaded {len(valid_rows)} valid transactions.")
     print(f"[QUARANTINE] Flagged {len(quarantined_rows)} anomalous rows -> DB & {q_csv_path}")
 
+def export_analytical_marts(cursor):
+    """Exports the 4 governed SQL views to CSV marts for Power BI consumption."""
+    views = [
+        "vw_aum_by_advisor_and_risk",
+        "vw_monthly_net_flows",
+        "vw_fee_revenue_by_asset_class",
+        "vw_client_churn_and_anomaly_flags",
+    ]
+    for view_name in views:
+        cursor.execute(f"SELECT * FROM {view_name};")
+        rows = cursor.fetchall()
+        headers = [col[0] for col in cursor.description]
+
+        out_path = os.path.join(MARTS_DIR, f"{view_name}.csv")
+        with open(out_path, mode="w", newline="", encoding="utf-8") as f:
+            writer = csv.writer(f)
+            writer.writerow(headers)
+            writer.writerows(rows)
+        print(f"[MARTS] Exported {out_path} ({len(rows)} rows)")
 
 def run_etl():
     print("Starting Wealth Portfolio ETL Pipeline...")
@@ -336,6 +359,7 @@ def run_etl():
 
         conn.commit()
         print("\nETL Pipeline completed and committed successfully.")
+        export_analytical_marts(cursor)
     except Exception as e:
         conn.rollback()
         print(f"\nETL Pipeline failed! Transaction rolled back. Error: {e}")

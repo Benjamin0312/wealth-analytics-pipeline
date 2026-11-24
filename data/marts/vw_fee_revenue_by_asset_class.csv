@@ -1,0 +1,7 @@
+asset_class,asset_name,risk_rating,annual_fee_pct,transaction_count,total_units_traded,gross_volume_zar,total_fee_revenue_zar,pct_of_total_fees
+Multi-Asset,Balanced Multi-Asset Fund,3,0.0110,79,10811.3304,6575925.96,62134.05,26.96
+Multi-Asset,Property Income Unit Trust,3,0.0095,82,11595.4529,6987334.20,58103.63,25.21
+Fixed Income,SA Government Bond Fund,2,0.0055,91,12024.6308,7495421.28,36179.63,15.70
+Offshore ETF,Global Developed Markets ETF,5,0.0065,83,10277.6316,6260997.57,35131.63,15.24
+Equities,SA Top 40 Equity ETF,4,0.0045,73,9652.7995,6125951.04,24173.08,10.49
+Cash,Enhanced Money Market Fund,1,0.0030,81,10026.1538,5749809.52,14751.33,6.40

@@ -1,0 +1,7 @@
+asset_id,asset_name,asset_class,risk_rating,annual_fee_pct,currency
+AST001,SA Top 40 Equity ETF,Equities,4,0.0045,ZAR
+AST002,Global Developed Markets ETF,Offshore ETF,5,0.0065,ZAR
+AST003,Balanced Multi-Asset Fund,Multi-Asset,3,0.011,ZAR
+AST004,SA Government Bond Fund,Fixed Income,2,0.0055,ZAR
+AST005,Enhanced Money Market Fund,Cash,1,0.003,ZAR
+AST006,Property Income Unit Trust,Multi-Asset,3,0.0095,ZAR

@@ -1,0 +1,61 @@
+client_id,client_name,risk_profile,client_segment,advisor_name,region,total_bought_zar,total_sold_zar,net_position_zar,last_transaction_date,status_flag
+CLI0025,Bongani Nkosi,Conservative,Private Wealth,David Botha,Gauteng,531033.81,534313.07,-3279.26,2026-11-19,HIGH CHURN RISK - Net Outflow
+CLI0048,Michael Mabena,Conservative,Private Wealth,Lerato Khumalo,Gauteng,360457.61,510904.18,-150446.57,2026-11-20,HIGH CHURN RISK - Net Outflow
+CLI0042,Fatima Govender,Moderate,Mass Affluent,David Botha,Gauteng,800409.48,452797.68,347611.80,2026-10-13,MODERATE CHURN RISK - >50% Redeemed
+CLI0027,Rohan Pillay,Moderate,High Net Worth,Priya Naidoo,KwaZulu-Natal,440532.01,429179.57,11352.44,2026-11-16,MODERATE CHURN RISK - >50% Redeemed
+CLI0039,Rohan Dlamini,Aggressive,Mass Affluent,Amina Patel,Western Cape,1091155.83,424738.68,666417.15,2026-11-05,HEALTHY
+CLI0019,Michael Mabena,Conservative,High Net Worth,Thabo Mokoena,Western Cape,616043.91,371354.68,244689.23,2026-11-18,MODERATE CHURN RISK - >50% Redeemed
+CLI0052,Annelize Ndlovu,Balanced,Mass Affluent,Lerato Khumalo,Gauteng,246276.41,351784.91,-105508.50,2026-11-18,HIGH CHURN RISK - Net Outflow
+CLI0005,Johan Ndlovu,Moderate,Mass Affluent,Lerato Khumalo,Gauteng,220912.25,348063.28,-127151.03,2026-06-15,HIGH CHURN RISK - Net Outflow
+CLI0023,Michael Govender,Unassigned,Mass Affluent,Thabo Mokoena,Western Cape,450495.70,311178.53,139317.17,2026-11-05,MODERATE CHURN RISK - >50% Redeemed
+CLI0017,Michael Mthembu,Conservative,Mass Affluent,Sarah van der Merwe,Western Cape,377017.05,309144.69,67872.36,2026-11-05,MODERATE CHURN RISK - >50% Redeemed
+CLI0041,Sipho Sithole,Balanced,Mass Affluent,David Botha,Gauteng,681851.04,297649.47,384201.57,2026-09-11,HEALTHY
+CLI0011,Annelize Meyer,Conservative,High Net Worth,Sarah van der Merwe,Western Cape,373138.43,287641.75,85496.68,2026-10-30,MODERATE CHURN RISK - >50% Redeemed
+CLI0002,Naledi Meyer,Conservative,High Net Worth,Thabo Mokoena,Western Cape,440253.09,279500.53,160752.56,2026-10-24,MODERATE CHURN RISK - >50% Redeemed
+CLI0043,Naledi Venter,Moderate,Mass Affluent,David Botha,Gauteng,430613.32,274631.85,155981.47,2026-11-14,MODERATE CHURN RISK - >50% Redeemed
+CLI0044,Annelize Sithole,Unassigned,Mass Affluent,Amina Patel,Western Cape,324592.13,268996.41,55595.72,2026-10-15,MODERATE CHURN RISK - >50% Redeemed
+CLI0012,Michael Ndlovu,Aggressive,Mass Affluent,Amina Patel,Western Cape,247113.72,248115.64,-1001.92,2026-09-25,HIGH CHURN RISK - Net Outflow
+CLI0018,Claire Jacobs,Aggressive,High Net Worth,Priya Naidoo,KwaZulu-Natal,41453.84,239800.04,-198346.20,2026-08-16,HIGH CHURN RISK - Net Outflow
+CLI0040,Tshepo Govender,Moderate,Mass Affluent,Sarah van der Merwe,Western Cape,504276.60,220133.57,284143.03,2026-10-20,HEALTHY
+CLI0031,Naledi Govender,Aggressive,Mass Affluent,Sarah van der Merwe,Western Cape,491444.51,206169.07,285275.44,2026-08-02,HEALTHY
+CLI0022,Michael Nkosi,Moderate,Mass Affluent,Sarah van der Merwe,Western Cape,383414.88,203485.84,179929.04,2026-06-21,MODERATE CHURN RISK - >50% Redeemed
+CLI0037,Naledi Dlamini,Conservative,Private Wealth,Sarah van der Merwe,Western Cape,541359.57,200089.96,341269.61,2026-10-09,HEALTHY
+CLI0046,Zanele Pillay,Balanced,Mass Affluent,Thabo Mokoena,Western Cape,735541.58,191177.28,544364.30,2026-10-20,HEALTHY
+CLI0010,Rohan Mabena,Balanced,Mass Affluent,Lerato Khumalo,Gauteng,143117.03,190118.19,-47001.16,2026-07-01,HIGH CHURN RISK - Net Outflow
+CLI0004,Claire Ndlovu,Aggressive,High Net Worth,Thabo Mokoena,Western Cape,510036.47,180022.55,330013.92,2026-10-31,HEALTHY
+CLI0056,Bongani Govender,Conservative,Mass Affluent,Thabo Mokoena,Western Cape,464007.68,175306.18,288701.50,2026-09-14,HEALTHY
+CLI0008,Claire Sithole,Moderate,High Net Worth,Thabo Mokoena,Western Cape,720019.22,165969.16,554050.06,2026-11-12,HEALTHY
+CLI0054,Johan Meyer,Aggressive,High Net Worth,Priya Naidoo,KwaZulu-Natal,539528.50,151370.62,388157.88,2026-10-23,HEALTHY
+CLI0020,Claire Govender,Balanced,Mass Affluent,Priya Naidoo,KwaZulu-Natal,353875.87,143587.89,210287.98,2026-10-31,HEALTHY
+CLI0038,Johan Jacobs,Aggressive,Private Wealth,Sarah van der Merwe,Western Cape,345786.68,135423.69,210362.99,2026-10-10,HEALTHY
+CLI0001,Claire Nkosi,Moderate,Mass Affluent,Amina Patel,Western Cape,377107.31,132360.51,244746.80,2026-10-01,HEALTHY
+CLI0060,Claire Ndlovu,Moderate,High Net Worth,Thabo Mokoena,Western Cape,239449.94,131803.92,107646.02,2026-05-28,MODERATE CHURN RISK - >50% Redeemed
+CLI0049,Kagiso Venter,Balanced,High Net Worth,Amina Patel,Western Cape,136837.32,129974.02,6863.30,2026-11-05,MODERATE CHURN RISK - >50% Redeemed
+CLI0051,Johan Mabena,Moderate,Mass Affluent,David Botha,Gauteng,265844.27,124856.37,140987.90,2026-09-28,HEALTHY
+CLI0029,Naledi Pretorius,Moderate,High Net Worth,Thabo Mokoena,Western Cape,312809.42,118696.42,194113.00,2026-08-04,HEALTHY
+CLI0032,Tshepo Sithole,Aggressive,High Net Worth,Sarah van der Merwe,Western Cape,130758.27,115039.81,15718.46,2026-11-11,MODERATE CHURN RISK - >50% Redeemed
+CLI0055,Michael Dlamini,Moderate,Mass Affluent,Lerato Khumalo,Gauteng,718626.11,112696.02,605930.09,2026-10-11,HEALTHY
+CLI0026,Johan Venter,Moderate,Mass Affluent,David Botha,Gauteng,550136.36,111904.17,438232.19,2026-09-27,HEALTHY
+CLI0036,Kagiso Mthembu,Conservative,Mass Affluent,David Botha,Gauteng,141409.54,111421.77,29987.77,2026-10-19,MODERATE CHURN RISK - >50% Redeemed
+CLI0030,Naledi Ndlovu,Conservative,Private Wealth,Lerato Khumalo,Gauteng,923445.23,100877.16,822568.07,2026-10-18,HEALTHY
+CLI0050,Michael Dlamini,Balanced,Private Wealth,Thabo Mokoena,Western Cape,17706.69,88663.24,-70956.55,2026-11-12,HIGH CHURN RISK - Net Outflow
+CLI0006,Naledi Nkosi,Balanced,High Net Worth,Thabo Mokoena,Western Cape,620068.80,83132.46,536936.34,2026-09-03,HEALTHY
+CLI0033,Naledi Nkosi,Aggressive,Mass Affluent,Amina Patel,Western Cape,350697.29,76772.59,273924.70,2026-06-12,HEALTHY
+CLI0058,Rohan Sithole,Moderate,Private Wealth,Sarah van der Merwe,Western Cape,286074.22,73473.43,212600.79,2026-11-01,HEALTHY
+CLI0057,Zanele Pillay,Conservative,Mass Affluent,David Botha,Gauteng,355985.23,67987.36,287997.87,2026-11-12,HEALTHY
+CLI0016,Michael Mabena,Aggressive,Mass Affluent,Sarah van der Merwe,Western Cape,463725.90,65216.56,398509.34,2026-11-13,HEALTHY
+CLI0034,Sipho Meyer,Conservative,Mass Affluent,Amina Patel,Western Cape,240094.47,55919.22,184175.25,2026-11-17,HEALTHY
+CLI0024,Naledi Pretorius,Balanced,Mass Affluent,Sarah van der Merwe,Western Cape,46001.20,54265.35,-8264.15,2026-08-02,HIGH CHURN RISK - Net Outflow
+CLI0021,Johan Mthembu,Balanced,Private Wealth,Sarah van der Merwe,Western Cape,432051.29,53652.55,378398.74,2026-09-14,HEALTHY
+CLI0028,Claire Meyer,Aggressive,Mass Affluent,Sarah van der Merwe,Western Cape,531514.31,52739.70,478774.61,2026-09-24,HEALTHY
+CLI0009,Claire Pillay,Conservative,Private Wealth,Thabo Mokoena,Western Cape,572789.21,36803.36,535985.85,2026-10-09,HEALTHY
+CLI0053,Sipho Nkosi,Balanced,Mass Affluent,Lerato Khumalo,Gauteng,72967.40,28091.36,44876.04,2026-10-25,HEALTHY
+CLI0035,Zanele Nkosi,Aggressive,Mass Affluent,Sarah van der Merwe,Western Cape,395971.39,10276.12,385695.27,2026-11-04,HEALTHY
+CLI0003,Sipho Nkosi,Conservative,High Net Worth,Amina Patel,Western Cape,134154.71,0.00,134154.71,2026-11-01,HEALTHY
+CLI0015,Rohan Meyer,Moderate,Mass Affluent,David Botha,Gauteng,258753.24,0.00,258753.24,2026-09-23,HEALTHY
+CLI0045,Bongani Sithole,Balanced,Mass Affluent,Amina Patel,Western Cape,667790.80,0.00,667790.80,2026-09-23,HEALTHY
+CLI0014,Zanele Jacobs,Balanced,Mass Affluent,Priya Naidoo,KwaZulu-Natal,136418.09,0.00,136418.09,2026-09-24,HEALTHY
+CLI0047,Sipho Mthembu,Conservative,Mass Affluent,Sarah van der Merwe,Western Cape,585182.81,0.00,585182.81,2026-11-10,HEALTHY
+CLI0013,Tshepo Govender,Conservative,Mass Affluent,Thabo Mokoena,Western Cape,255122.37,0.00,255122.37,2026-04-10,HEALTHY
+CLI0007,Tshepo Mthembu,Aggressive,Mass Affluent,Lerato Khumalo,Gauteng,281794.18,0.00,281794.18,2026-11-14,HEALTHY
+CLI0059,Rohan Dlamini,Balanced,High Net Worth,Priya Naidoo,KwaZulu-Natal,90280.63,0.00,90280.63,2026-08-30,HEALTHY

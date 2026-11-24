@@ -1,0 +1,39 @@
+advisor_id,advisor_name,region,branch,seniority_tier,risk_profile,client_segment,active_clients,total_transactions,total_inflows_zar,total_outflows_zar,net_aum_zar,total_fees_generated_zar
+ADV001,Thabo Mokoena,Western Cape,Cape Town CBD,Principal,Aggressive,High Net Worth,1,10,663260.61,180022.55,483238.06,5031.58
+ADV001,Thabo Mokoena,Western Cape,Cape Town CBD,Principal,Balanced,High Net Worth,1,9,620068.80,83132.46,536936.34,5983.09
+ADV001,Thabo Mokoena,Western Cape,Cape Town CBD,Principal,Balanced,Mass Affluent,1,12,735541.58,191177.28,544364.30,6803.29
+ADV001,Thabo Mokoena,Western Cape,Cape Town CBD,Principal,Balanced,Private Wealth,1,8,40240.46,88663.24,-48422.78,734.39
+ADV001,Thabo Mokoena,Western Cape,Cape Town CBD,Principal,Conservative,High Net Worth,2,17,1118935.22,650855.21,468080.01,10248.67
+ADV001,Thabo Mokoena,Western Cape,Cape Town CBD,Principal,Conservative,Mass Affluent,2,9,719130.05,175306.18,543823.87,5329.00
+ADV001,Thabo Mokoena,Western Cape,Cape Town CBD,Principal,Conservative,Private Wealth,1,7,652564.75,36803.36,615761.39,2736.40
+ADV001,Thabo Mokoena,Western Cape,Cape Town CBD,Principal,Moderate,High Net Worth,3,22,1460744.41,416469.50,1044274.91,10278.66
+ADV001,Thabo Mokoena,Western Cape,Cape Town CBD,Principal,Unassigned,Mass Affluent,1,9,450495.70,311178.53,139317.17,5106.76
+ADV002,Sarah van der Merwe,Western Cape,Claremont,Senior,Aggressive,High Net Worth,1,7,355458.91,115039.81,240419.10,1922.81
+ADV002,Sarah van der Merwe,Western Cape,Claremont,Senior,Aggressive,Mass Affluent,4,32,2074068.18,334401.45,1739666.73,15290.40
+ADV002,Sarah van der Merwe,Western Cape,Claremont,Senior,Aggressive,Private Wealth,1,7,345786.68,135423.69,210362.99,3846.00
+ADV002,Sarah van der Merwe,Western Cape,Claremont,Senior,Balanced,Mass Affluent,1,7,222777.57,54265.35,168512.22,479.35
+ADV002,Sarah van der Merwe,Western Cape,Claremont,Senior,Balanced,Private Wealth,1,9,432051.29,53652.55,378398.74,3810.32
+ADV002,Sarah van der Merwe,Western Cape,Claremont,Senior,Conservative,High Net Worth,1,6,373138.43,287641.75,85496.68,5211.19
+ADV002,Sarah van der Merwe,Western Cape,Claremont,Senior,Conservative,Mass Affluent,2,13,1098957.18,309144.69,789812.49,9655.47
+ADV002,Sarah van der Merwe,Western Cape,Claremont,Senior,Conservative,Private Wealth,1,12,561077.45,200089.96,360987.49,4771.48
+ADV002,Sarah van der Merwe,Western Cape,Claremont,Senior,Moderate,Mass Affluent,2,15,1192098.38,423619.41,768478.97,8247.65
+ADV002,Sarah van der Merwe,Western Cape,Claremont,Senior,Moderate,Private Wealth,1,8,719659.69,73473.43,646186.26,2212.78
+ADV003,Lerato Khumalo,Gauteng,Sandton,Principal,Aggressive,Mass Affluent,1,7,318055.01,0.00,318055.01,2263.52
+ADV003,Lerato Khumalo,Gauteng,Sandton,Principal,Balanced,Mass Affluent,3,20,825742.39,569994.46,255747.93,6506.41
+ADV003,Lerato Khumalo,Gauteng,Sandton,Principal,Conservative,Private Wealth,2,22,1334382.12,611781.34,722600.78,10919.77
+ADV003,Lerato Khumalo,Gauteng,Sandton,Principal,Moderate,Mass Affluent,2,25,1611686.27,460759.30,1150926.97,7403.77
+ADV004,Priya Naidoo,KwaZulu-Natal,Umhlanga,Senior,Aggressive,High Net Worth,2,15,679522.79,391170.66,288352.13,6718.32
+ADV004,Priya Naidoo,KwaZulu-Natal,Umhlanga,Senior,Balanced,High Net Worth,1,4,201826.74,0.00,201826.74,936.96
+ADV004,Priya Naidoo,KwaZulu-Natal,Umhlanga,Senior,Balanced,Mass Affluent,2,11,490293.96,143587.89,346706.07,4717.17
+ADV004,Priya Naidoo,KwaZulu-Natal,Umhlanga,Senior,Moderate,High Net Worth,1,11,440532.01,429179.57,11352.44,5059.85
+ADV005,David Botha,Gauteng,Pretoria,Associate,Balanced,Mass Affluent,1,13,826624.82,297649.47,528975.35,6320.17
+ADV005,David Botha,Gauteng,Pretoria,Associate,Conservative,Mass Affluent,2,12,554210.37,179409.13,374801.24,4085.22
+ADV005,David Botha,Gauteng,Pretoria,Associate,Conservative,Private Wealth,1,14,670367.42,534313.07,136054.35,8030.51
+ADV005,David Botha,Gauteng,Pretoria,Associate,Moderate,Mass Affluent,5,42,2589449.27,964190.07,1625259.20,27222.82
+ADV006,Amina Patel,Western Cape,Bellville,Associate,Aggressive,Mass Affluent,3,27,1852260.34,749626.91,1102633.43,15824.86
+ADV006,Amina Patel,Western Cape,Bellville,Associate,Balanced,High Net Worth,1,7,163239.86,129974.02,33265.84,1411.35
+ADV006,Amina Patel,Western Cape,Bellville,Associate,Balanced,Mass Affluent,1,8,799774.08,0.00,799774.08,3628.41
+ADV006,Amina Patel,Western Cape,Bellville,Associate,Conservative,High Net Worth,1,6,316929.49,0.00,316929.49,1128.09
+ADV006,Amina Patel,Western Cape,Bellville,Associate,Conservative,Mass Affluent,1,6,303665.30,55919.22,247746.08,1923.05
+ADV006,Amina Patel,Western Cape,Bellville,Associate,Moderate,Mass Affluent,1,8,752596.03,132360.51,620235.52,4311.47
+ADV006,Amina Patel,Western Cape,Bellville,Associate,Unassigned,Mass Affluent,1,12,588953.53,268996.41,319957.12,4362.34
