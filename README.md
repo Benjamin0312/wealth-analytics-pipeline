@@ -1,9 +1,3 @@
----
-
-### 3. Executive Project README (`README.md`)
-:
-
-```markdown
 # Wealth Portfolio Analytics & Data Quality Pipeline
 
 An end-to-end **Wealth Management Data Warehouse, Automated Quality Gate, and Power BI Reporting Solution** built in **Python, MySQL 8.0, and Power BI**.
